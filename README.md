@@ -2,7 +2,6 @@
 # Maman 14: Final Project (system programming lab Openu CS course) Done by 
 ## oron markovich
 ### Date: 10.04.2023
-#### University explicit specification for the project:
 
 ##### Task Summery: Create an assembler for fictional assembly language defined by openu course.
 ##### Implementation Overview and general approach:
